@@ -42,7 +42,13 @@
       "position": [
         512,
         240
-      ]
+      ],
+      "credentials": {
+        "openAiApi": {
+          "id": "aeSYQBFkVhs4vosi",
+          "name": "OpenAi account"
+        }
+      }
     },
     {
       "parameters": {
@@ -60,27 +66,6 @@
         592,
         32
       ]
-    },
-    {
-      "parameters": {
-        "resource": "channel",
-        "operation": "get",
-        "channelId": {
-          "__rl": true,
-          "mode": "list",
-          "value": ""
-        },
-        "options": {}
-      },
-      "type": "n8n-nodes-base.slack",
-      "typeVersion": 2.3,
-      "position": [
-        16.5,
-        0
-      ],
-      "id": "12672cca-d3c6-42cd-b70e-eab97f2f1039",
-      "name": "Get a channel",
-      "webhookId": "834941c0-2a20-4c82-8be2-bf1b28047e41"
     }
   ],
   "connections": {
@@ -111,7 +96,7 @@
     "executionOrder": "v1"
   },
   "triggerCount": 0,
-  "versionId": "8d5f19f8-dded-4704-a32f-bc4ae88cbd57",
+  "versionId": "4411644b-718b-4d5f-ae65-164dbd5c850a",
   "owner": {
     "type": "personal",
     "projectId": "vYOqCLiaEFiNTId7",
