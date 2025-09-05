@@ -1,0 +1,14 @@
+{
+  "id": "aeSYQBFkVhs4vosi",
+  "name": "OpenAi account",
+  "type": "openAiApi",
+  "data": {
+    "apiKey": ""
+  },
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "vYOqCLiaEFiNTId7",
+    "projectName": "Eunice Lee <eunice.lee@n8n.io>",
+    "personalEmail": "eunice.lee@n8n.io"
+  }
+}

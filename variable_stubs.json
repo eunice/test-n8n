@@ -4,5 +4,11 @@
     "key": "TARGET_URL",
     "type": "string",
     "value": ""
+  },
+  {
+    "id": "gFB5n5u4VULPZJBq",
+    "key": "ENV",
+    "type": "string",
+    "value": ""
   }
 ]
